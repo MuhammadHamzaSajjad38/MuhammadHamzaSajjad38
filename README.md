@@ -13,9 +13,9 @@ I am a passionate data science student with a strong interest in machine learnin
 - My GitHub Repositories
 - Stats & Activity  
 - Projects Table  
-- Goals Checklist  
-- Quote 
+- Goals Checklist
 - Contact Me
+- Quote 
 
 ---
 
