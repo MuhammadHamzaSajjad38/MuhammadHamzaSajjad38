@@ -1,73 +1,133 @@
-# Hi, I'm **Muhammad Hamza Sajjad**
+# Hi, I'm **Muhammad Hamza Sajjad** 👋
 
-## About Me  
+## 🚀 About Me
 **Full Name:** *Muhammad Hamza Sajjad*  
 **University:** *University of the Punjab – Department of Data Science*
 
-I am a passionate data science student with a strong interest in machine learning, AI, and research. I enjoy working on real-world problems and continuously improving my technical and analytical skills. My goal is to become an expert in AI-based solutions and contribute to impactful projects.
+I am an AI Engineer, Data Scientist, and Machine Learning enthusiast currently pursuing an **MPhil in Data Science**. I enjoy building intelligent AI applications, developing machine learning models, and conducting research in **Generative AI, Deep Learning, NLP, and Computer Vision**.
 
-
-## Table of Contents  
-- About Me  
-- Skills  
-- My GitHub Repositories
-- Stats & Activity  
-- Projects Table  
-- Goals Checklist
-- Contact Me
-- Quote 
+I am passionate about solving real-world problems through data and continuously learning new AI technologies.
 
 ---
 
-## Skills  
-- Python  
-- Data Science  
-- Machine Learning  
-- Deep Learning   
-- SQL & Databases  
+## 📚 Table of Contents
+- About Me
+- Skills
+- Featured GitHub Projects
+- GitHub Stats
+- Goals
+- Contact
+- Quote
 
 ---
 
-## My Kaggle Projects  
-> Here are some of my data science notebooks:
+# 💻 Skills
 
-- [Online Food Data Analysis & Predictive Modeling](https://www.kaggle.com/code/hamzasajjad321/online-food-data-analysis-and-predictive-modeling)  
-  *Exploratory analysis and machine learning on online food ordering behavior.*
-
-- [Customer Churn EDA, Visualization & Machine Learning](https://www.kaggle.com/code/hamzasajjad321/customer-churn-eda-visualization-machine-learning)  
-  *Churn prediction with visual insights and ML models.*
-
-- [House Price Prediction: EDA & ML Algorithms](https://www.kaggle.com/code/hamzasajjad321/house-price-prediction-eda-2-ml-algo)  
-  *Feature analysis and predictive modeling for real estate prices.*
+- Python
+- SQL
+- Data Science
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Generative AI
+- Streamlit
+- Git & GitHub
 
 ---
 
-## Stats & Activity  
+# 🚀 Featured GitHub Projects
+
+### 📌 Customer Churn Prediction (Streamlit Web App)
+🔗 https://github.com/MuhammadHamzaSajjad38/Customer-Churn-Prediction-Streamlit-web-app
+
+**Description**
+- Customer Churn Prediction using Machine Learning
+- Exploratory Data Analysis (EDA)
+- Multiple ML Models
+- Interactive Streamlit Web Application
+
+**Tech Stack**
+Python • Pandas • Scikit-Learn • Streamlit • Matplotlib
+
+---
+
+### 📌 Automatic Question Generation
+🔗 https://github.com/MuhammadHamzaSajjad38/automatic-question-generation
+
+**Description**
+- AI-based Automatic Question Generation
+- NLP techniques
+- Educational AI Project
+
+**Tech Stack**
+Python • NLP • Transformers
+
+---
+
+### 📌 Crime Forecaster
+🔗 https://github.com/MuhammadHamzaSajjad38/Crime-Forecaster
+
+**Description**
+- Crime prediction using historical datasets
+- Data visualization
+- Machine Learning forecasting
+
+**Tech Stack**
+Python • Machine Learning • Data Analysis
+
+---
+
+### 📌 Chest X-Ray Detector
+🔗 https://github.com/MuhammadHamzaSajjad38/Chest-XRay-Detector
+
+**Description**
+- Deep Learning model for Chest X-Ray disease detection
+- Medical Image Classification
+- Computer Vision Project
+
+**Tech Stack**
+Python • TensorFlow • CNN • OpenCV
+
+---
+
+# 📊 GitHub Stats
+
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHamzaSajjad38&show_icons=true&theme=radical)
 
----
-
-## Projects Table  
-| Project Name | Description | Tech Used |
-|--------------|-------------|-----------|
-| Online Food Data Analysis & Predictive Modeling | Analysis of food ordering behavior with ML predictions | Python, EDA, ML |
-| Customer Churn Analysis & Prediction | Visualization and machine learning for churn detection | Python, EDA, ML |
-| House Price Prediction | Exploratory analysis and regression models for pricing | Python, ML Algorithms |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaSajjad38&layout=compact&theme=radical)
 
 ---
 
-## Goals Checklist  
-- [x] Start GitHub Profile  
-- [x] Build ML Projects  
-- [ ] Contribute to Open Source  
-- [x] Publish Research Paper on AI  
-- [ ] Land a Data Science Internship  
+# 📈 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadHamzaSajjad38&theme=radical)
+
 ---
 
-## Contact Me  
-- **Email:- hamzasajjad802@gmail.com**  
-- **LinkedIn:** https://linkedin.com/in/hamza-sajjad-pk  
-- **Kaggle:** https://www.kaggle.com/hamzasajjad321
+# 🎯 Current Goals
 
-## Quote  
-> *“Strive for progress, not perfection.”*
+- ✅ Build High-Quality AI Projects
+- ✅ Publish AI Research Papers
+- ✅ Learn Agentic AI & LLMs
+- 🔄 Contribute to Open Source
+- 🔄 Land an AI / ML Engineer Role
+- 🔄 Build Production-Ready AI Applications
+
+---
+
+# 📫 Contact Me
+
+📧 **Email:** hamzasajjad802@gmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/hamza-sajjad-pk
+
+🌐 **GitHub**
+https://github.com/MuhammadHamzaSajjad38
+
+---
+
+# 💡 Quote
+
+> **"Building intelligent systems today for a smarter tomorrow."**
