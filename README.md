@@ -6,17 +6,18 @@
 
 I am a passionate data science student with a strong interest in machine learning, AI, and research. I enjoy working on real-world problems and continuously improving my technical and analytical skills. My goal is to become an expert in AI-based solutions and contribute to impactful projects.
 
-## Table of Contents  
-- About Me  
-- Skills  
-- My GitHub Repositories
-- Stats & Activity  
-- Projects Table  
-- Goals Checklist
-- Contact Me
-- Quote 
+## 💻 Technologies
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Skills  
 - Python  
@@ -26,6 +27,7 @@ I am a passionate data science student with a strong interest in machine learnin
 - SQL & Databases  
 
 ---
+
 
 ## My GitHub Projects  
 > Here are some of my repositories:
@@ -38,14 +40,11 @@ I am a passionate data science student with a strong interest in machine learnin
   *Predictive modeling and forecasting of crime data.*
 - [Chest-XRay-Detector](https://github.com/MuhammadHamzaSajjad38/Chest-XRay-Detector.)  
   *Deep learning final year project for chest X-ray analysis (CNN, Xception, Grad-CAM).*
-- [Generative-and-Agentic-AI](https://github.com/MuhammadHamzaSajjad38/Generative-and-Agentic-AI)  
-  *Notebooks and resources for Generative & Agentic AI coursework.*
-
 ---
 
-## Stats & Activity  
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHamzaSajjad38&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadHamzaSajjad38&show_icons=true&theme=radical)
 ---
 
 ## Projects Table  
@@ -55,7 +54,6 @@ I am a passionate data science student with a strong interest in machine learnin
 | Automatic Question Generation | T5-small fine-tuned QG system with Flask/Streamlit | Python, NLP, T5, spaCy |
 | Crime-Forecaster | Crime data prediction & forecasting | Python, ML |
 | Chest-XRay-Detector | CNN-based chest X-ray disease detection | Python, Deep Learning, CNN |
-| Generative-and-Agentic-AI | Generative & Agentic AI course notebooks | Python, LLMs, Agents |
 
 ---
 
@@ -75,3 +73,5 @@ I am a passionate data science student with a strong interest in machine learnin
 
 ## Quote  
 > *"Strive for progress, not perfection."*
+
+
